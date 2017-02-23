@@ -19,7 +19,7 @@ y_margin = int((window_height-(board_height*(box_size+gap_size)))/2)
 
 #               R   G   B
 gray        = (100,100,100)
-navy_blue   = ( 60, 60,100)
+gray_blue   = ( 52, 73,94)
 white       = (255, 255, 255)
 red         = (255, 0, 0)
 green       = ( 0, 255, 0)
@@ -29,7 +29,7 @@ orange      = (255, 128, 0)
 purple      = (255, 0, 255)
 cyan        = ( 0, 255, 255)
 
-bg_color = navy_blue
+bg_color = gray_blue
 light_bg_color = gray
 box_color = white
 high_light_color = blue
